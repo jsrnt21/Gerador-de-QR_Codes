@@ -1,4 +1,4 @@
-Gerador de QR Code:
+
 
 
 Este é um projeto de um Gerador de QR Code usando FastAPI para o backend e um site HTML/CSS/JavaScript para a interface. O usuário pode inserir um link e obter um QR Code correspondente.
