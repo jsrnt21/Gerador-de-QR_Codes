@@ -1,2 +1,2 @@
-# gerador_qrode
+# gerador_qrcode
  
